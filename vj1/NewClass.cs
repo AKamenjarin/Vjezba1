@@ -8,5 +8,6 @@ namespace vj1
 {
     class NewClass
     {
+        //radim promjene
     }
 }
